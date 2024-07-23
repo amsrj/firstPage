@@ -1,0 +1,9 @@
+.cate{font-family:'Broadway',Georgia, 'Times New Roman', Times, serif;font-size:25pt;position:relative; background-color:antiquewhite;
+    border:4px dotted rgb(10, 109, 15);left:20%;width:60%;text-shadow:3px 3px 4px cyan}
+    div,h2, p{font-family:'Broadway',Georgia, 'Times New Roman', Times, serif;}
+    h2{background-color: chartreuse;}
+    .div {text-align:center;width:700px; height:150px; float: left;}
+    #time{ width:50%;background-color: rgb(238, 255, 238);}
+    caption{font-size:25pt;font-weight: bolder;margin:10px;background-color: blanchedalmond;border:4px dotted rgb(10, 109, 15);text-shadow:3px 3px 4px rgb(235, 195, 143);}
+    #table {text-align: center;}
+    body{ background-image: url("bg1.jpeg");border:10px groove rgb(241, 95, 205);background-color: rgb(235, 255, 248);}
