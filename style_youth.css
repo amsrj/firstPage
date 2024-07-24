@@ -1,7 +1,0 @@
-body{ background-image: url("bg1.jpeg");border:10px groove rgb(241, 95, 205);background-color:
-    rgb(235, 255, 248);font-family:'Broadway','MD이솝체',Georgia, 'Times New Roman', Times, serif;}
-   h2{border:4px dotted rgb(10, 109, 15);background-color:antiquewhite;font-size:35pt;margin-top:0em;
-   margin-bottom:1em;text-shadow:3px 3px 4px rgb(171, 171, 255); text-align: center;}
-   h3{ display:inline;font-size: 32pt; background-color: darksalmon;text-shadow:3px 3px 4px rgb(171, 171, 255)}
-   li.esp{list-style-image: url("flag_esp.gif");}
-   legend{font-size: xx-large;background-color: darkturquoise;}
